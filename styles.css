@@ -1,0 +1,9 @@
+/*giving attributes for header and h1 in external style sheet*/
+header {
+    background:red;
+}
+h1{
+      font-size: 30px;
+      padding-top: 20px;
+      height:70px;
+} 
